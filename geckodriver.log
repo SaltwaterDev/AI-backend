@@ -1,0 +1,225 @@
+1623310095298	geckodriver	INFO	Listening on 127.0.0.1:60432
+1623310098408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofile0Qu8cR"
+1623310099311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofile0Qu8cR\\search.json.mozlz4", (void 0)))
+1623310101871	Marionette	INFO	Listening on port 60443
+1623310102115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623310107525	Marionette	INFO	Stopped listening on port 60443
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623310118740	geckodriver	INFO	Listening on 127.0.0.1:60656
+1623310121815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofilejIbF7D"
+1623310122754	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofilejIbF7D\\search.json.mozlz4", (void 0)))
+1623310125400	Marionette	INFO	Listening on port 60668
+1623310125545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623310130749	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623310190917	Marionette	INFO	Stopped listening on port 60668
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Wesley Hung\AppData\Local\Temp\rust_mozprofilejIbF7D\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623310311212	geckodriver	INFO	Listening on 127.0.0.1:53888
+1623310314306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofileG6r8cP"
+1623310315295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofileG6r8cP\\search.json.mozlz4", (void 0)))
+1623310318324	Marionette	INFO	Listening on port 53899
+1623310318530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623310323702	Marionette	INFO	Stopped listening on port 53899
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623310381275	geckodriver	INFO	Listening on 127.0.0.1:49447
+1623310384464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofile3L7JOD"
+1623310386363	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofile3L7JOD\\search.json.mozlz4", (void 0)))
+1623310390722	Marionette	INFO	Listening on port 49460
+1623310391063	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 33164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 33164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofileyhyY7b\\search.json.mozlz4", (void 0)))
+1623310472352	Marionette	INFO	Listening on port 53429
+1623310472548	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 48400, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1623310541980	Marionette	INFO	Stopped listening on port 53429
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Wesley Hung\AppData\Local\Temp\rust_mozprofileyhyY7b\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623310716918	geckodriver	INFO	Listening on 127.0.0.1:63063
+1623310720022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofileXgSt2Z"
+1623310720958	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofileXgSt2Z\\search.json.mozlz4", (void 0)))
+1623310723962	Marionette	INFO	Listening on port 63074
+1623310724258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623310758088	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623310794246	Marionette	INFO	Stopped listening on port 63074
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Wesley Hung\AppData\Local\Temp\rust_mozprofileXgSt2Z\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623311099707	geckodriver	INFO	Listening on 127.0.0.1:55542
+1623311102806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofilenAKycP"
+1623311103884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofilenAKycP\\search.json.mozlz4", (void 0)))
+1623311106746	Marionette	INFO	Listening on port 55553
+1623311107040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623311175607	Marionette	INFO	Stopped listening on port 55553
+[Child 30176, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Wesley Hung\AppData\Local\Temp\rust_mozprofilenAKycP\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623311329163	geckodriver	INFO	Listening on 127.0.0.1:63555
+1623311332275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofilePX374G"
+1623311333352	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofilePX374G\\search.json.mozlz4", (void 0)))
+1623311336008	Marionette	INFO	Listening on port 63567
+1623311336498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623311407752	Marionette	INFO	Stopped listening on port 63567
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Wesley Hung\AppData\Local\Temp\rust_mozprofilePX374G\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623311547640	geckodriver	INFO	Listening on 127.0.0.1:59497
+1623311550756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofileFDRDEz"
+1623311551834	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofileFDRDEz\\search.json.mozlz4", (void 0)))
+1623311554854	Marionette	INFO	Listening on port 59508
+1623311555008	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623311625737	Marionette	INFO	Stopped listening on port 59508
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Wesley Hung\AppData\Local\Temp\rust_mozprofileFDRDEz\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623312111179	geckodriver	INFO	Listening on 127.0.0.1:50950
+1623312114289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofileanenfY"
+1623312115132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Wesley Hung\\AppData\\Local\\Temp\\rust_mozprofileanenfY\\search.json.mozlz4", (void 0)))
+1623312118189	Marionette	INFO	Listening on port 50961
+1623312118562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623312740836	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623312809294	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623312871304	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623317573177	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623318410845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623318456375	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623318506567	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623318554202	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623319961963	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623320579692	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623320642848	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623320976017	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623321346564	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623321416201	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623321766715	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623322056217	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623322137104	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623323674653	Marionette	INFO	Stopped listening on port 50961
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2107,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2107","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:956","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:2860","chrome://marionette/content/server.js:despatch:291","chrome://marionette/content/server.js:execute:264","chrome://marionette/content/server.js:onPacket/<:237","chrome://marionette/content/server.js:onPacket:238","chrome://marionette/content/transport.js:_onJSONObjectReady/<:504"]}] Barrier: quit-application-granted
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Wesley Hung\AppData\Local\Temp\rust_mozprofileanenfY\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
