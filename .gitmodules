@@ -1,0 +1,3 @@
+[submodule "ranking"]
+	path = ranking
+	url = https://github.com/cognitiveailab/ranking.git
