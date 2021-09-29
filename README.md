@@ -1,5 +1,5 @@
 # AI-backend
-This repositroey store the files we need for developing different ML model.
+This repositroey stores the files we need for developing different ML model.
 
 ## Type of files
 
