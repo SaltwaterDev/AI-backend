@@ -9,7 +9,12 @@ This repositroey store the files we need for developing different ML model.
 **[Dcard](dcard_data)** Taiwan and HK forum for University students. This directory also containthe data scrapper, raw data
 
 ### Model
-[model](model) contains a bunch of different models , which are all specified for scrocing each comment. 
+
 
 ### Ranking
-A forked repository from TF-Ranking
+[ranking](ranking) A forked repository from TF-Ranking. I have used that for experiment 
+
+[model](model) contains the model with TF-ranking framework
+
+### Trainer
+[trainer](trainer) contains different data preprocessing, trainers, evaluation files that is used from fyp.  
