@@ -8,7 +8,6 @@ This repositroey stores the files we need for developing different ML model.
 
 **[Dcard](dcard_data)** Taiwan and HK forum for University students. This directory also containthe data scrapper, raw data
 
-### Model
 
 
 ### Ranking
